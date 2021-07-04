@@ -10,8 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "nedb": "^1.8.0",
+    "node-schedule": "^2.0.0",
     "nodeplotlib": "^0.7.3",
-    "plotly": "^1.0.6"
+    "plotly": "^1.0.6",
+    "sqlite3": "^5.0.1"
   },
   "type": "module"
 }
